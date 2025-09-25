@@ -70,8 +70,6 @@ Este reto no solo evalúa competencias técnicas, sino también tu capacidad par
 
 ---
 
-## 📌 **Decoraciones extra (opcional)**
-
 ```mermaid
 graph TD;
     A[Inicio del reto] --> B[Análisis del problema];

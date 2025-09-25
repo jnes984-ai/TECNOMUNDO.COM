@@ -21,33 +21,6 @@ Una organización enfrenta dificultades en la gestión de sus procesos informát
 
 ---
 
-## 🛠️ **Propuesta de Solución**
-
-💡 **Enfoque técnico:**  
-Diseñar una aplicación o sistema que automatice tareas críticas, utilizando lenguajes como **Python** o **C#**, con énfasis en modularidad y escalabilidad.
-
-📐 **Metodología sugerida:**
-- Análisis del problema
-- Diseño de la solución
-- Implementación técnica
-- Pruebas y validación
-- Documentación final
-
----
-
-## 👥 **Trabajo Colaborativo**
-
-🤝 **Roles sugeridos:**
-- Líder técnico
-- Documentador
-- Tester
-- Presentador
-
-📣 **Dinámica de equipo:**  
-Fomentar el intercambio de ideas, el respeto por los tiempos de entrega y la revisión cruzada de aportes.
-
----
-
 ## 📄 **Formato de Entrega**
 
 🗂️ **Informe técnico:**
